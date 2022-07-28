@@ -3,6 +3,7 @@
 This project is about automating a managing process  
 It has one notebook and one python script  
 <h1>Python script</h1>
+Code <a href="https://github.com/federoccco/Start2Impact/blob/main/Data%20Science/File-Organizer/addfile_v2.py">HERE</a>
 It will automatically manage files based on their extension by putting them in the related folder 
 (e.g. "Audio" folder if the extension is    .mp3, .wma and so on) if the folder doesn't exist, 
 the script will automatically create it and then move the file, this will be done for audio, 
