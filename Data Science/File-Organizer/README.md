@@ -57,7 +57,9 @@ text and images files if  the file extension is supported
 </ol>
 <br>
 <h1> Notebook Part 1</h1>
-        
+
+Full code <a href="https://nbviewer.org/github/federoccco/Start2Impact/blob/main/Data%20Science/File-Organizer/fileorganizer_v2.ipynb>"HERE</a>
+<br>
 It's the same concept of the above python script with the only difference that 
 it will move all the files at once without having to specify an argument, just call 
 the python file name and it will immediately move every file.  
