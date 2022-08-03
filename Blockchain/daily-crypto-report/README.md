@@ -1,6 +1,6 @@
-# Daily Crypto report
+# Cryptocurrency reporting system
 
-This is a report system that fetches information from coinmarket.com  
+This is a report system that fetches information from <a href="https://coinmarketcap.com">coinmarketcap.com </a>
 
 The script use the request module sending an HTTP request to an API Endpoint through an auth key, saving the data in a JSON file
 
