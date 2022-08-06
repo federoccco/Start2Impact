@@ -66,7 +66,7 @@ The projects is dived into 5 parts:
 <li>Data Selection</li>
 <li>Data Cleaning and Data Transformation</li>
 <li>Data Transformation and Visualization</li>
-<li>conclusions</li>
+<li>Conclusions</li>
 </ol>
 
 You can find it on <a href="https://www.kaggle.com/code/federicogreco/world-food-and-population-data-viz-project">KAGGLE</a> or <a href="https://nbviewer.org/github/federoccco/Start2Impact/blob/main/Data%20Science/Food-Analysis/Food_prod_local.ipynb">     NBVIEWER</a>
