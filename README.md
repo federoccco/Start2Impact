@@ -1,1 +1,1 @@
-# Start2Impact
+In this folder i'll put every projects i did for <a href="">start2impact</a>, an italian startup which let me complete projects evalueted by senior data scientists.
