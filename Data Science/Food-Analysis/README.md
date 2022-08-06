@@ -65,7 +65,7 @@ The projects is dived into 5 parts:
 <li>Discovery</li>
 <li>Data Selection</li>
 <li>Data Cleaning and Data Transformation</li>
-<li>Data Transformation and Visualization</li>
+<li>Data Exploration and Visualization</li>
 <li>Conclusions</li>
 </ol>
 
